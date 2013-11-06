@@ -3,7 +3,7 @@
 #include <stdint.h>
 #include <iomanip>
 #include "vm.hpp"
-//#include <boost/lexical_cast.hpp>
+//#include <boost/lexical_cast.hpp> -- No longer required
 #include <stdlib.h>
 using namespace std;
 
